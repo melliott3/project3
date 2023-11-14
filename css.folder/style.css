@@ -1,0 +1,166 @@
+body {
+    margin: auto;
+    background-color: white;
+  }
+  
+  title {
+    margin: auto;
+    color: lightblue;
+    text-align: center;
+    line-height: normal;
+  }
+  
+  ol {
+    list-style-type: none;
+    text-align: left;
+    font-family: 'Tilt Neon', sans-serif;
+    color: pink;
+    border: 8px dashed black;
+    border-radius: 25px;
+    padding: 10px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    margin-right: 45px;
+    margin-left: 55px;
+  }
+  
+  ul {
+    list-style-type: none;
+    margin-left: 75px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 50px;
+    width: 600px;
+    padding: 4px 4px;
+    overflow: hidden;
+    border: 0.5em dotted silver;
+    border-radius: 15px 20px;
+    text-align: center;
+    font-family: 'Supermercado One', sans-serif;
+    color: black;
+    position: relative;
+  }
+  
+  li {
+    display: inline;
+    color: black;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 35px;
+    margin-left: 35px;
+    padding: 4px 6px;
+    text-decoration: none;
+  }
+  
+  li a {
+    text-decoration: none;
+  }
+  
+  li a:hover:not(.active) {
+    background-color: #348;
+    color: white;
+  }
+  
+  .active {
+    background-color: #6dfafc;
+  }
+  
+  .active:hover {
+    background-color: skyblue;
+    color: white;
+  }
+  
+  iframe {
+    border: 6px groove #1e2121;
+    position: relative;
+  }
+  
+  h1 {
+    font-size: 40px;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    color: skyblue;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    margin-right: 45px;
+    margin-left: 55px;
+  }
+  
+  h2 {
+    text-align: center;
+    font-family: 'Permanent Marker', cursive;
+    text-shadow:
+      0 1px 0 #ccc, 
+      0 2px 0 #c9c9c9,
+      0 3px 0 #bbb,
+      0 4px 0 #b9b9b9,
+      0 5px 0 #aaa,
+      0 6px 1px rgba(0,0,0,.1),
+      0 0 5px rgba(0,0,0,.1),
+      0 1px 3px rgba(0,0,0,.3),
+      0 3px 5px rgba(0,0,0,.2),
+      0 5px 10px rgba(0,0,0,.25),
+      0 10px 10px rgba(0,0,0,.2),
+      0 20px 20px rgba(0,0,0,.15);
+    font-size: 30px;
+    color: dodgerblue;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    margin-right: 45px;
+    margin-left: 55px;
+  }
+  
+  h3, h4, h5 {
+    text-align: left;
+    font-size: 20px;
+    font-family: 'Permanent Marker', cursive;
+    color: pink;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    margin-right: 45px;
+    margin-left: 55px;
+  }
+  
+  p {
+    text-align: left;
+    font-size: 14px;
+    font-family: 'Tilt Neon', sans-serif;
+    color: purple;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    margin-right: 45px;
+    margin-left: 55px;
+  }
+  
+  .uranium, 
+  .headshot, 
+  .plant {
+    width: 200px;
+    height: 250px;
+  }
+  
+  img {
+    width: 200px;
+    height: 250px;
+    border: 8px inset black;
+    border-radius: 5px;
+    float: center;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    margin-right: 45px;
+    margin-left: 55px;
+    padding: 8px;
+  }
+  
+  section {
+    border: black;
+    border-radius: 20px;
+    background: linear-gradient(180deg, #86b7fc 50px, white 15px);
+    width: 60%;
+    overflow: auto;
+    padding: 15px;
+    box-shadow: 0px 0px 0px 3px #7a1191, 0px 0px 0px 8px #1437a3;
+    margin: 40px auto;
+  }

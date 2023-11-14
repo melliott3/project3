@@ -1,0 +1,28 @@
+html, body, div, iframe, h1, h2, h3, h4, h5, 
+h6, p, section, img {
+  margin: 0%;
+  padding: 0%;
+  border: 0em;
+  font: inherit;
+  vertical-align: baseline;
+}
+
+nav, section, ul, li, section {
+	display: block;
+	margin: auto;
+}
+
+body {
+	line-height: 1px;
+	margin-top: 30px;
+  margin-bottom: 30px;
+  margin-right: 45px;
+  margin-left: 45px;
+  background-color: white;
+}
+
+
+ul {
+	list-style-type: none;
+  font-size: 0.5em;
+}
