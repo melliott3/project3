@@ -7,7 +7,7 @@ h6, p, section, img {
   vertical-align: baseline;
 }
 
-nav, section, ul, li, section {
+nav, section, ul, li {
 	display: block;
 	margin: auto;
 }
