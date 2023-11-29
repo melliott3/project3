@@ -67,7 +67,7 @@ body {
   }
   
   iframe {
-    border: 8px groove #1e2121;
+    border: 10px groove #1e2121;
     position: relative;
   }
   
@@ -76,7 +76,7 @@ body {
     text-align: center;
     font-family: 'Montserrat', sans-serif;
     color: skyblue;
-    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+    text-shadow: 1px 1px 3px black, 0 0 28px blue, 0 0 8px darkblue;
     margin-top: 30px;
     margin-bottom: 25px;
     margin-right: 45px;
@@ -120,10 +120,10 @@ body {
   
   p {
     text-align: left;
-    font-size: 14px;
+    font-size: 16px;
     font-family: 'Tilt Neon', sans-serif;
     color: purple;
-    margin: 10px;
+    margin: auto;
   }
   
   .uranium, 
