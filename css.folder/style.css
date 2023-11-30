@@ -1,5 +1,5 @@
 body {
-    margin: auto;
+    margin: 10px;
     background-color: white;
   }
   
@@ -18,8 +18,8 @@ body {
     border: 8px dashed black;
     border-radius: 25px;
     padding: 18px;
-    margin-top: 30px;
-    margin-bottom: 25px;
+    margin-top: 40px;
+    margin-bottom: 35px;
     margin-right: 55px;
     margin-left: 55px;
   }
@@ -42,7 +42,7 @@ body {
     display: inline-block;
     color: black;
     text-align: center;
-    padding: 5px;
+    padding: 10px;
     margin: 0 10px;
     padding: 6px 10px;
     text-decoration: none;
@@ -153,8 +153,9 @@ body {
     border: black;
     border-radius: 20px;
     background: linear-gradient(180deg, #86b7fc 50px, white 15px);
-    display: block;
-	  margin: auto;
+    display: justify;
+    padding: 10px;
+	  margin: 20px;
     overflow: auto;
     height: 50%;
     padding: 15px;
