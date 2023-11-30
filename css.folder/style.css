@@ -1,5 +1,5 @@
 body {
-    margin: 10px;
+    margin: 18px;
     background-color: white;
   }
   
@@ -80,16 +80,17 @@ body {
     color: skyblue;
     text-shadow: 1px 1px 3px black, 0 0 28px blue, 0 0 8px darkblue;
     margin-top: 30px;
-    margin-bottom: 25px;
+    margin-bottom: 38px;
     margin-right: 45px;
     margin-left: 55px;
+    padding: 10px;
   }
   
   h2 {
     text-align: center;
     font-family: 'Permanent Marker', cursive;
     text-shadow:
-      0 1px 0 #ccc, 
+      0 1px 0 #ccc,
       0 2px 0 #c9c9c9,
       0 3px 0 #bbb,
       0 4px 0 #b9b9b9,
@@ -106,7 +107,7 @@ body {
     margin-top: 30px;
     margin-bottom: 25px;
     margin-right: 55px;
-    margin-left: 55px;
+    margin-left: 45px;
   }
   
   h3, h4, h5 {
@@ -158,9 +159,9 @@ body {
     background: linear-gradient(180deg, #86b7fc 50px, white 15px);
     display: justify;
     padding: 10px;
-	  margin: 25px;
+	  margin: 15px;
     overflow: auto;
-    height: 50%;
+    height: 70%;
     padding: 15px;
     box-shadow: 0px 0px 0px 3px #7a1191, 0px 0px 0px 8px #1437a3;
   }
