@@ -155,7 +155,6 @@ section {
   border: black;
   border-radius: 20px;
   background: linear-gradient(180deg, #86b7fc 50px, white 15px);
-  display: justify;
   padding: 10px;
   margin: 20px;
   overflow: auto;
